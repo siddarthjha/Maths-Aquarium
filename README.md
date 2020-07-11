@@ -1,2 +1,2 @@
 # Maths-Aquarium
-A application written in java to for elementary kids to learn arithmetic operations!!
+A Software in java to for elementary kids to learn arithmetic operations!!

@@ -1,4 +1,4 @@
-# Maths-Aquarium
+# Maths-Aquarium (An application of arthimetic operation for kids)
 A Software in java to for elementary kids to learn arithmetic operations!!
 
 
